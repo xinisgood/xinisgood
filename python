@@ -1,0 +1,17 @@
+f(0)=0,f(1)=1
+f(n)=f'(n)+f(n-2) n>2
+計算fib_rec(5)+fib_ite(8)=?
+
+
+
+
+
+
+
+f(n)=n!=n*(n-1)x.......*1
+=n*f(n-1)
+f(n)=1,n=1
+
+(1)fact_rec(n)
+(2)_ite(n)
+計算fact_rec(5)+fact_ite(8)
